@@ -1,0 +1,73 @@
+# -----------------------
+# OS
+# -----------------------
+# Linux
+*~
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# -----------------------
+# Python
+# -----------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+*.venv
+env/
+venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# -----------------------
+# C / C++
+# -----------------------
+*.o
+*.obj
+*.so
+*.exe
+*.out
+*.a
+*.lib
+*.dll
+*.dSYM/
+*.d
+
+# -----------------------
+# Logs and temps
+# -----------------------
+*.log
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+
+# -----------------------
+# IDE
+# -----------------------
+# Visual Studio Code
+.vscode/
+# JetBrains / IntelliJ
+.idea/
+*.iml
+
+# -----------------------
+# Compilation
+# -----------------------
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# -----------------------
+# Others
+# -----------------------
+*.db
+*.sqlite
+*.sqlite3
+*.cache
+*.cover
