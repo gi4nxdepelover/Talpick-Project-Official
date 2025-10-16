@@ -12,7 +12,7 @@ Its main goal is to give full control over network connections and digital ident
 
 ## Descripción / Description
 
-En un mundo donde la vigilancia digital y la recopilación de datos se han convertido en la norma, Talpick busca ofrecer **una capa personal de protección**, diseñada para complementar otras herramientas de anonimato, como Tor o VPNs comerciales, sin reemplazarlas.  
+En un mundo donde la vigilancia digital y la recopilación de datos se han convertido en la norma, Talpick busca ofrecer **una capa personal de protección**, diseñada para complementar otras herramientas de anonimato, como [Tor](https://www.torproject.org/) o VPNs comerciales, sin reemplazarlas.  
 Talpick permite al usuario cifrar y gestionar distintos aspectos de su tráfico de red e identidad digital, otorgando control granular sobre qué información se comparte y qué permanece privada.
 
 In a world where digital surveillance and data collection are the norm, Talpick aims to provide **a personal layer of protection**, designed to complement other anonymity tools like Tor or commercial VPNs, without replacing them.  
