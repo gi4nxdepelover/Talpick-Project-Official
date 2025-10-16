@@ -1,6 +1,6 @@
 # TALPICK
 
-![Logo de Talpick](https://files.catbox.moe/mpt02q.png)
+![Logo de Talpick](https://files.catbox.moe/jute23.png)
 
 **Talpick** es una herramienta gratuita y de código abierto orientada a proteger **la privacidad y el anonimato** del usuario en Internet.  
 Su objetivo principal es ofrecer control total sobre la conexión de red y la identidad digital, proporcionando un entorno seguro, confiable y flexible para la navegación, investigación y desarrollo de prácticas de anonimato.
