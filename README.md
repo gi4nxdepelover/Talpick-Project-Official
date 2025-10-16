@@ -68,5 +68,4 @@ Cada idioma está disponible en archivos separados `description_XX.txt` para fac
 ## Autor / Author
 
 **Gi4nx**  
-GitHub: [tu-perfil]  
-Contacto: [opcional]
+GitHub: https://github.com/gi4nxdepelover
