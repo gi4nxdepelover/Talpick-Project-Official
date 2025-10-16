@@ -1,0 +1,41 @@
+TALPICK - LICENSE
+
+Copyright (c) 2025 Gi4nx
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to use,
+copy, modify, and distribute the Software for **personal, educational, or research purposes only**, subject to the following conditions:
+
+1. **No Commercial Use**: The Software may **not** be sold, licensed for profit, or used for commercial purposes in any form.
+
+2. **Open Source and Redistribution**: You may modify and redistribute the Software under the same license, for non-commercial purposes only. Proper credit to the original author **Gi4nx** must be maintained.
+
+3. **No Warranty**: The Software is provided "as-is", without warranty of any kind, either expressed or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, or non-infringement.
+
+4. **Responsibility**: The author **Gi4nx** is **not responsible** for any improper, illegal, or unintended use of the Software. Users are fully responsible for compliance with local and national laws.
+
+5. **Community Contribution**: Contributions, audits, and adaptations are welcome for non-commercial purposes, and must retain the same license conditions.
+
+By using or distributing this Software, you acknowledge that you have read and understood this License and agree to comply with its terms.
+
+---
+
+TALPICK - LICENCIA EN ESPAÑOL
+
+Copyright (c) 2025 Gi4nx
+
+Se concede permiso, de manera gratuita, a cualquier persona que obtenga una copia
+de este software y sus archivos de documentación (el "Software"), para usar,
+copiar, modificar y redistribuir el Software **únicamente para fines personales, educativos o de investigación**, bajo las siguientes condiciones:
+
+1. **Prohibición Comercial**: El Software **no** puede ser vendido, licenciado con fines de lucro, ni utilizado con fines comerciales de ninguna manera.
+
+2. **Código Abierto y Redistribución**: Se permite modificar y redistribuir el Software bajo la misma licencia, solo para fines no comerciales. Se debe mantener crédito al autor original **Gi4nx**.
+
+3. **Sin Garantía**: El Software se ofrece "tal cual", sin garantía alguna, ya sea expresa o implícita, incluyendo pero no limitado a garantías de comerciabilidad, adecuación para un propósito particular o no infracción.
+
+4. **Responsabilidad**: El autor **Gi4nx** **no se hace responsable** por el uso indebido, ilegal o no previsto del Software. Los usuarios son completamente responsables de cumplir con las leyes locales y nacionales.
+
+5. **Contribución Comunitaria**: Contribuciones, auditorías y adaptaciones son bienvenidas para fines no comerciales, y deben mantener las mismas condiciones de la licencia.
+
+Al usar o distribuir este Software, usted reconoce que ha leído y entendido esta Licencia y acepta cumplir con sus términos.
