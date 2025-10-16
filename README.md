@@ -15,7 +15,8 @@ Its main goal is to provide full control over network connections and digital id
 En un mundo donde la vigilancia digital y la recopilación de datos se han convertido en la norma, Talpick busca ofrecer **una capa personal de protección**, complementando otras herramientas de anonimato como [Tor](https://www.torproject.org/) o VPNs comerciales, sin reemplazarlas.  
 Cada módulo de Talpick está diseñado pensando en la privacidad máxima, minimizando puntos de exposición, protegiendo metadatos y garantizando que los usuarios mantengan control sobre su identidad digital.
 
-In a world where digital surveillance and data collection are the norm, Talpick aims to provide **a personal layer of protection**, complementing anonymity tools like Tor or commercial VPNs, without replacing them.  
+In a world where digital surveillance and data collection are the norm, Talpick aims to provide **a personal layer of protection**, complementing anonymity tools like 
+[Tor](https://torproject.org) or commercial VPNs, without replacing them.  
 Each Talpick module is designed with maximum privacy in mind, minimizing exposure points, protecting metadata, and ensuring users maintain control over their digital identity.
 
 ---
@@ -28,7 +29,7 @@ Each Talpick module is designed with maximum privacy in mind, minimizing exposur
 - **Diseño modular y extensible**: adaptable a usuarios principiantes, investigadores y profesionales de seguridad.  
 - **Código abierto y revisable**: permite auditoría, aprendizaje y contribuciones de la comunidad.  
 - **Documentación multilingüe**: acceso global y coherente a las funciones de la herramienta.
-
+- **English**
 - **Advanced network and privacy management**: granular control over exposure points and data flow.  
 - **Data encryption and reinforced anonymity**: protects digital identity, communications, and metadata.  
 - **Compatibility with other anonymity tools**: acts as an additional layer alongside Tor, VPNs, and proxies.  
