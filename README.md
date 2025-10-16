@@ -1,4 +1,4 @@
-# TALPICK ![Logo de Talpick](https://files.catbox.moe/jute23.png)
+# TALPICK
 
 ![Logo de Talpick](https://files.catbox.moe/jute23.png)
 
